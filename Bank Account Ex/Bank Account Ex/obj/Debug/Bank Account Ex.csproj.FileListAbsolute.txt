@@ -1,0 +1,7 @@
+C:\Users\rune0\iCloudDrive\Graddip SA48\OOP\day3\Bank Account Ex\Bank Account Ex\obj\Debug\Bank Account Ex.csprojAssemblyReference.cache
+C:\Users\rune0\iCloudDrive\Graddip SA48\OOP\day3\Bank Account Ex\Bank Account Ex\obj\Debug\Bank Account Ex.csproj.CoreCompileInputs.cache
+C:\Users\rune0\iCloudDrive\Graddip SA48\OOP\day3\Bank Account Ex\Bank Account Ex\bin\Debug\Bank Account Ex.exe.config
+C:\Users\rune0\iCloudDrive\Graddip SA48\OOP\day3\Bank Account Ex\Bank Account Ex\bin\Debug\Bank Account Ex.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\OOP\day3\Bank Account Ex\Bank Account Ex\bin\Debug\Bank Account Ex.pdb
+C:\Users\rune0\iCloudDrive\Graddip SA48\OOP\day3\Bank Account Ex\Bank Account Ex\obj\Debug\Bank Account Ex.exe
+C:\Users\rune0\iCloudDrive\Graddip SA48\OOP\day3\Bank Account Ex\Bank Account Ex\obj\Debug\Bank Account Ex.pdb
